@@ -1,0 +1,5 @@
+myenv/
+model.zip
+__pycache__/
+*.pyc
+model/
