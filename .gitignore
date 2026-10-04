@@ -2,4 +2,5 @@ myenv/
 model.zip
 __pycache__/
 *.pyc
-model/.DS_Store
+model/
+.DS_Store
